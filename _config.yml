@@ -2,34 +2,34 @@ theme: jekyll-theme-minimal
 font-icon: /assets/css/font-awesome-4.7.0/css/font-awesome.min.css
 
 # 你的求职方向，比如前端开发工程师等
-title: 前端开发工程师
+title: 机器视觉工程师实习生、ROS机器人开发工程师实习生
 
 # 对你自己的简洁描述
 description: 开朗，幽默，自信，爱阅读和运动
 
 # 你的美照地址
-logo: /assets/images/wangjianing.jpg
+logo: https://ali-zhy.oss-cn-beijing.aliyuncs.com/D:/Program%20Files_data/PicGo202506041347606.png
 
 # 你的名字
-name: 王佳宁(Mica Red)
+name: 赵洪运
 
 # 你的联系方式
-phone: 15024063193
+phone: 15729285430
 
 # 你的邮箱
-email: jianingw321@outlook.com
+email: Hy_user2024@163.com
 
 # 你目前的住址
-address: 广东东莞
+address: 河南郑州
 
 # 你毕业院校
-school: 对外经济贸易大学
+school: 郑州西亚斯学院
 
 # 你的专业
-profession: 国际经济与贸易/西班牙语
+profession: 人工智能
 
 # 你的学位
-degree: 本科（2021届）
+degree: 本科
 
 # 你获得过的证书或奖励
-credential: 雅思7.0
+credential: 英语四级
